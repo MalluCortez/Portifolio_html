@@ -1,0 +1,48 @@
+
+    h1{
+      font-size: 30px;
+      font-family: sans-serif;
+      color: rgb(155, 101, 101);
+      text-align: center;
+    }
+
+    p{
+        font-weight: 600;
+        font-size: 18px;
+        padding: 5px;
+
+    }
+
+    body{
+        font-size: 16px;
+        background-color: antiquewhite;
+        color: rgb(183, 120, 120);
+    }
+
+    #minhafoto{
+        float: left;
+        height: 300px;
+        padding: 10px;
+        background-color: rgb(183, 120, 120);
+    }
+    .descrição{
+        text-align: center;
+    }
+
+    #bio{
+        position: absolute;
+        top: 34%;
+        right: 10px;
+        left: 34%;
+        margin: 10px;
+        margin-right: 10px;
+        text-align: justify;
+    }
+
+    .image {
+        height: 320px;
+        position: relative;
+    
+    }
+
+
